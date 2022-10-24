@@ -16,6 +16,8 @@
     "express-session": "^1.17.2",
     "install": "^0.13.0",
     "npm": "^7.24.0",
+    "primeicons": "^6.0.1",
+    "primereact": "^8.6.1",
     "sqlite3": "^5.0.2",
     "ts-node": "^10.2.1",
     "typeorm": "^0.2.37"
